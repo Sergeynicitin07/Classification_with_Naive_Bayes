@@ -1,0 +1,12 @@
+# Временные файлы
+*.pyc
+__pycache__/
+
+# Среда разработки
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Данные
+/data/
